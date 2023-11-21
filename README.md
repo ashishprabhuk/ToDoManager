@@ -27,16 +27,20 @@
 
 ## User Interface (UI)
 
-Main UI
+###Main UI
+
 <img width="960" alt="Screenshot 2023-11-21 122507" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/9d1a0217-fba7-42e4-9e68-8c11800de4d1">
 
-Modal UI
+###Modal UI
+
 <img width="960" alt="Screenshot 2023-11-21 122326" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/7a5b200d-2c0d-4e3f-a414-88ae2d45cf1b">
 
-SignUP
+###SignUP
+
 <img width="960" alt="Screenshot 2023-11-21 120729" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/7cca9dcb-960f-421a-90a5-88a5fb2f4453">
 
-Login
+###Login
+
 <img width="960" alt="Screenshot 2023-11-21 120719" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/48b0acab-bb94-453d-a923-ba9eb2829e2d">
 
 
