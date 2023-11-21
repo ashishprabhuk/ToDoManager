@@ -27,10 +27,18 @@
 
 ## User Interface (UI)
 
-![Main UI](C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Screenshot 2023-11-21 122507.png)
-![Modal UI](https://drive.google.com/file/d/14BKEqm29Fe7tOwz7t668qTMu9So1SQVU/view?usp=sharing)
-![SignUP](https://drive.google.com/file/d/1QGO7ouLV94shuSVogTD4pv4wvzO0SiQd/view?usp=sharing)
-![Login](https://drive.google.com/file/d/1Fgcknm-x3R5J6MexCsRQ3LIxeVK1wCSQ/view?usp=sharing)
+![Main UI]
+<img width="960" alt="Screenshot 2023-11-21 122507" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/9d1a0217-fba7-42e4-9e68-8c11800de4d1">
+
+![Modal UI]
+<img width="960" alt="Screenshot 2023-11-21 122326" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/7a5b200d-2c0d-4e3f-a414-88ae2d45cf1b">
+
+![SignUP]
+<img width="960" alt="Screenshot 2023-11-21 120729" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/7cca9dcb-960f-421a-90a5-88a5fb2f4453">
+
+![Login]
+<img width="960" alt="Screenshot 2023-11-21 120719" src="https://github.com/ashishprabhuk/ToDoManager/assets/89200101/48b0acab-bb94-453d-a923-ba9eb2829e2d">
+
 
 ## Setup
 
