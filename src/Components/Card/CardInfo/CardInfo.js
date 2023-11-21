@@ -118,7 +118,7 @@ function CardInfo(props) {
       <div className="cardinfo">
         <div className="cardinfo_box">
           <div className="cardinfo_box_title">
-            <Type />
+            {/* <Type /> */}
             <p>Title</p>
           </div>
           <Editable
@@ -131,7 +131,7 @@ function CardInfo(props) {
 
         <div className="cardinfo_box">
           <div className="cardinfo_box_title">
-            <List />
+            {/* <List /> */}
             <p>Description</p>
           </div>
           <Editable
@@ -144,7 +144,7 @@ function CardInfo(props) {
 
         <div className="cardinfo_box">
           <div className="cardinfo_box_title">
-            <Calendar />
+            {/* <Calendar /> */}
             <p>Date</p>
           </div>
           <input
@@ -157,7 +157,7 @@ function CardInfo(props) {
 
         <div className="cardinfo_box">
           <div className="cardinfo_box_title">
-            <Tag />
+            {/* <Tag /> */}
             <p>Labels</p>
           </div>
           <div className="cardinfo_box_labels">
@@ -192,7 +192,7 @@ function CardInfo(props) {
 
         <div className="cardinfo_box">
           <div className="cardinfo_box_title">
-            <CheckSquare />
+            {/* <CheckSquare /> */}
             <p>Tasks</p>
           </div>
           <div className="cardinfo_box_progress-bar">

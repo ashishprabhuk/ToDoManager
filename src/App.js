@@ -5,7 +5,7 @@ import Editable from "./Components/Editabled/Editable";
 
 export default function App() {
   const [boards, setBoards] = useState(
-    JSON.parse(localStorage.getItem("prac-kanban")) || []
+    JSON.parse(localStorage.getItem("details")) || []
   );
 
   const [targetCard, setTargetCard] = useState({
@@ -115,7 +115,7 @@ export default function App() {
   };
 
   useEffect(() => {
-    localStorage.setItem("prac-kanban", JSON.stringify(boards));
+    localStorage.setItem("details", JSON.stringify(boards));
   }, [boards]);
 
   return (
@@ -137,6 +137,7 @@ export default function App() {
               updateCard={updateCard}
             />
           ))}
+
           <div className="app_boards_last">
             <Editable
               displayClass="app_boards_add-board"
