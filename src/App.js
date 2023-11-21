@@ -121,7 +121,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="app_nav">
-        <h1>Task Manager</h1>
+        <h1 id = "h1" >Task Manager</h1>
       </div>
       <div className="app_boards_container">
         <div className="app_boards">
